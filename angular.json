@@ -43,7 +43,7 @@
                 }
               ],
               "outputPath": "docs",
-              "baseHref": "docs",
+              "baseHref": "pwatest",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
